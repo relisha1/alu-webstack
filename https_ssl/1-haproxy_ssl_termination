@@ -45,5 +45,5 @@ frontend relisha1-frontend-https
 
 backend relisha1-backend
     balance roundrobin
-    server 6278-web-01 52.87.158.91:80 check
-    server 6278-web-02 3.82.213.156:80 check
+    server 6376-web-01 52.87.158.91:80 check
+    server 6376-web-02 3.82.213.156:80 check
